@@ -51,6 +51,7 @@ class SolutionA(object):
 
 """
 this solution works and uses a map to access O(1) the index of a char
+19ms runtime and 13.41Mb of memory
 """
 class Solution(object):
     def lengthOfLongestSubstring(self, s):
