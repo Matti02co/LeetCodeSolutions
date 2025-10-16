@@ -1,5 +1,6 @@
 """
-This solution works for 987 testcases out of 988, the remaining test exceeds the time limit, see SolutionB for a better solution
+This solution was the one I wrote without looking at solutions.
+It works for 987 testcases out of 988, the remaining test exceeds the time limit, see SolutionB for a better solution
 """
 class SolutionA(object):
     def lengthOfLongestSubstring(self, s):
